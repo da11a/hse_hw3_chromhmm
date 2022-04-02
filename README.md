@@ -63,3 +63,4 @@ H4k20me1 - H4k20me1StdAlnRep1.bam
 
 ## **Результат бонусного задания:**
 
+<img width="494" alt="image" src="https://user-images.githubusercontent.com/67833171/161400276-bf939125-8fc0-42b9-a141-d735c62ac65c.png">
