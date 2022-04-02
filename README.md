@@ -24,7 +24,7 @@ H3k9me1	- H3k9me1StdAlnRep1.bam
 
 H3k9me3	- H3k9me3StdAlnRep1.bam
 
-H4k20me1	- H4k20me1StdAlnRep1.bam
+H4k20me1 - H4k20me1StdAlnRep1.bam
 
 ## **Картинки из выдачи ChromHMM:**
 
@@ -40,6 +40,26 @@ H4k20me1	- H4k20me1StdAlnRep1.bam
 
 ## **Картинки из UCSC GenomeBrowser:**
 
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/67833171/161391379-868d8d1e-5522-4ba6-86d1-236626019a04.png">
+
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/67833171/161393339-a0c76644-76ab-41c7-9aba-bfe9e7b89b04.png">
+
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/67833171/161391508-4241a344-f2dc-4365-b409-e616f755dcc7.png">
+
 ## **Таблица:**
 
+Состояния  | Расположение в геноме | Характерные гистоновые модификации | Название эпигенетического типа
+--- | --- | --- | ---
+**1** | ядерная ламина, на TES, гены | H3K9me1 и H3K27me3 (слабо выражены) | polycomb-repressed
+**2** | ядерная ламина | - | heterochromatin
+**3** | TES, гены, экзоны, ядерная ламина | H3K9me3, H3K36me3 (слабо выражена) | enhancer
+**4** | гены, TES, экзоны | H3K36me3 | transcriptional area_1
+**5** | TES, гены, экзоны | H3K7ac (слабо выражена), H3K9me1, H3K36me3, H3K4me1, H4K20me1 | transcriptional area_2
+**6** | TES, гены, ядерная ламина | H3K4me1 | poised enhancer
+**7** | TES, гены | H3K4me1, H3K27ac, H3K4me2, H3K9ac | transcriptional elongation
+**8** | TES, TSS2kb, гены, экзоны | H3K4me1, H3K27ac, H3K4me2, H3K4me3, H3K9ac | weak promoter
+**9** | почти равномерно  по всем (наиболее TSS, TSS2kb, CpG островки) | H3K4me2, H3K4me3, H3K4me1, H3K9ac | weak promoter/insulator
+**10** | CpG островки, TSS, TSS2kb, экзоны | H3K27ac, H3K4me2, H3K4me3, H3K9ac | active promoter
+
 ## **Результат бонусного задания:**
+
